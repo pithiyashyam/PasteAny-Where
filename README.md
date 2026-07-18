@@ -114,3 +114,9 @@ file_share_app/
 - Add a background cleanup job to delete expired files from disk automatically.
 - Add HTTPS/TLS termination (e.g. via nginx) before exposing this publicly —
   encryption at rest doesn't protect data in transit on its own.
+
+## Author
+*Pithiya Shyam*
+
+## License
+This project is licensed under the MIT License.
