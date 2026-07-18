@@ -116,7 +116,7 @@ file_share_app/
   encryption at rest doesn't protect data in transit on its own.
 
 ## Author
-*Pithiya Shyam*
+***Pithiya Shyam***
 
 ## License
 This project is licensed under the MIT License.
